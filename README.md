@@ -19,12 +19,12 @@
 <p align="center"><b>📫 Дискорд боты, сайты иии... я не знаю <:<b/><p/>
 
 ---
-### 🛒 Заказывайте крутые вещи!
+### 🛒 Заказывали крутые вещи?
 <p align="center"><img src="https://discord.c99.nl/widget/theme-3/1005398510675435590.png"><p/>
   
 ---
 
-### 🎫 Важный опыт:
+### 🎫 Важный опыт жизни:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
