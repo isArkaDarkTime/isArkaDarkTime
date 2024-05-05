@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/38465129/72480309-0dede180-37c5-11ea-9138-793b79713232.png" title="Minecraft" alt="Minecraft" width="40" height="40"/>&nbsp;
   <img src="https://i.ibb.co/hLDJS8H/Visual-Elements-150.png" title="FireFox" alt="FireFox" width="40" height="40"/>&nbsp;
 </div>
 
