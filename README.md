@@ -14,17 +14,17 @@
 
 ---
 
-### 💻 О крутом парне на github:
-<p align="center"><b>👋 Нафиг ленивых программистов!<b/><p/>
-<p align="center"><b>📫 Дискорд боты, сайты иии... я не знаю <:<b/><p/>
+### 💻 What about me?:
+<p align="center"><b>🙋‍♂️ Dont worry, to hell with testers!<b/><p/>
+<p align="center"><b>🔰 Minecraft plugins, Discord Bots, WebSites aaaand... I don't know <:<b/><p/>
 
 ---
-### 🛒 Заказывали крутые вещи?
+### 👓 See it!
 <p align="center"><img src="https://discord.c99.nl/widget/theme-3/1005398510675435590.png"><p/>
   
 ---
 
-### 🎫 Важный опыт жизни:
+### 🎫 I've dealt with:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@
 
 ---
 
-### 🆒 Классная статистика:
+### 🆒 Cool stats:
   <br/>
   <p align="center">
     <a href="https://github.com/isArkaDarkTime"><img alt="ArkaDarkTime's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isArkaDarkTime&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
@@ -53,7 +53,7 @@
 
 ---
 
-### 😎 Лучшая статистика на github <:
+### 😎 Best stats <:
   <p align="center">
       <a href="https://github.com/isArkaDarkTime"><img alt="ArkaDarkTime's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=isArkaDarkTime&theme=ayu-mirage" height="192px"/></a>
   </p>
