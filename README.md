@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" width="175"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://open.spotify.com/user/31u5wdqnact5pgpmjfbwny7nwdhq">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
