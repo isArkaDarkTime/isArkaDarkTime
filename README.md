@@ -20,7 +20,7 @@ I’m a developer passionate about crafting bots, websites, Minecraft plugins, a
 ---
 
 ## 👥 My Team
-I’m the **owner and creator** of **CookiesTeamOfficial**:  
+I’m the **owner and creator** of **CookiesTeam**:  
 - **GitHub:** [CookiesTeamOfficial](https://github.com/CookiesTeamOfficial)  
 - **Discord Server:** [Join Us!](https://discord.gg/Cf5Q3Pht7Y)  
 We’re a group of enthusiasts working on cool projects together. Check us out!
@@ -30,25 +30,25 @@ We’re a group of enthusiasts working on cool projects together. Check us out!
 ## 🛠 Skills & Tech
 
 ### Programming Languages
-| Language   | Proficiency          |
-|------------|----------------------|
-| Python     | Main (80-100%)      |
-| Java       | Secondary (60-80%)  |
-| PHP        | 10-40%              |
-| React      | 10-30%              |
-| HTML       | 30-60%              |
-| CSS        | 20-50%              |
-| JavaScript | 10-40%              |
-| SQL        | 40-60%              |
+| Language                 | Proficiency        |
+|--------------------------|--------------------|
+| Python                   | Main (25-55%)      |
+| Java (MC Plugins & Mods) | Secondary (20-45%) |
+| PHP                      | 3-10%              |
+| React                    | 1-5%               |
+| HTML                     | 15-30%             |
+| CSS                      | 15-40%             |
+| JavaScript               | 5-20%              |
+| SQL                      | 20-35%             |
 
 ### Frameworks & Libraries
-| Name         | Description                                          | Proficiency      |
-|--------------|------------------------------------------------------|------------------|
-| Disnake      | Discord боты на Python (Улучшеный discord.py)        | 50-80%           |
-| Quart        | Асинхронный Flask                                    | 30-50%           |
-| SpigotAPI    | Minecraft плагины на Java                            | 40-70%           |
-| Node.js      | Бэкенд на JavaScript                                 | 20-40%           |
-| Discord.js   | Discord боты на JS                                   | 10-20%           |
+| Name       | Description                                   | Proficiency |
+|------------|-----------------------------------------------|-------------|
+| Disnake    | Discord bots on Python (Улучшеный discord.py) | 30-75%      |
+| Quart      | Async Flask                                   | 20-35%      |
+| SpigotAPI  | Minecraft plugins on Java                     | 25-60%      |
+| Node.js    | Backend on JS                                 | 10-25%      |
+| Discord.js | Discord bots on JS                            | 1-5%        |
 
 ### Tools
 - **IDE:** VS Code (main), IntelliJ IDEA (for Java)  
@@ -112,30 +112,30 @@ We’re a group of enthusiasts working on cool projects together. Check us out!
 ## 🛠 Навыки и технологии
 
 ### Языки программирования
-| Язык       | Уровень владения     |
-|------------|----------------------|
-| Python     | Основной (80-100%)   |
-| Java       | Второй (60-80%)      |
-| PHP        | 10-40%               |
-| React      | 10-30%               |
-| HTML       | 30-60%               |
-| CSS        | 20-50%               |
-| JavaScript | 10-40%               |
-| SQL        | 40-60%               |
+| Язык                     | Уровень владения  |
+|--------------------------|-------------------|
+| Python                   | Основной (25-55%) |
+| Java (MC Plugins & Mods) | Второй (20-45%)   |
+| PHP                      | 3-10%             |
+| React                    | 1-5%              |
+| HTML                     | 15-30%            |
+| CSS                      | 15-40%            |
+| JavaScript               | 5-20%             |
+| SQL                      | 20-35%            |
 
 ### Фреймворки и библиотеки
-| Название     | Описание                                             | Уровень владения |
-|--------------|------------------------------------------------------|------------------|
-| Disnake      | Discord боты на Python (Улучшеный discord.py)        | 50-80%           |
-| Quart        | Асинхронный Flask                                    | 30-50%           |
-| SpigotAPI    | Minecraft плагины на Java                            | 40-70%           |
-| Node.js      | Бэкенд на JavaScript                                 | 20-40%           |
-| Discord.js   | Discord боты на JS                                   | 10-20%           |
+| Название   | Описание                                      | Уровень владения |
+|------------|-----------------------------------------------|------------------|
+| Disnake    | Discord боты на Python (Улучшеный discord.py) | 30-75%           |
+| Quart      | Асинхронный Flask                             | 20-35%           |
+| SpigotAPI  | Minecraft плагины на Java                     | 25-60%           |
+| Node.js    | Бэкенд на JavaScript                          | 10-25%           |
+| Discord.js | Discord боты на JS                            | 1-5%             |
 
 ### Инструменты
 - **IDE:** VS Code (основная), IntelliJ IDEA (для Java)  
-- **Другое:** FileZilla, Git  
-- **Браузер:** Firefox  
+- **Другое:** Bitvise SSH Client, Git  
+- **Браузер:** FireFox
 
 ---
 
